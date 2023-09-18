@@ -1,6 +1,6 @@
 // Origin: NOCOM-BOT/mod_fbmsg_legacy
 
-declare module '@xaviabot/fca-unofficial' {
+declare module '@jarif098/annie_chat_api' {
     import type { Readable, Duplex, Transform } from "stream";
     import type EventEmitter from "events";
 
